@@ -1,11 +1,10 @@
 import './App.css';
-import CallBack from './components/CallBack';
-
+import Axios from './components/Axios';
 
 function App() {
   return (
     <div className="App">
-     <CallBack />
+   <Axios />
     </div>
   );
 }
